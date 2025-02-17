@@ -8,9 +8,6 @@
 
 A Flutter-based solution for booking verified home cleaning professionals, developed as part of an internship technical assessment.
 
-![App Preview](https://via.placeholder.com/800x400.png/2575FC/FFFFFF?text=HomeCleaner+App+Demo)  
-*Replace with actual screenshots*
-
 ## ✨ Key Features  
 **Implemented**  
 ✅ Authentication (Email/Password)  
