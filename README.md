@@ -1,17 +1,32 @@
----
+# HomeCleaner App 🧹  
+**Book Trusted Home Cleaners Within 2 km Radius**  
 
-### **To Use This README**:
-1. Replace placeholder URLs (`yourusername`, `your.email@domain.com`, etc.)
-2. Add actual screenshots (replace placeholder images)
-3. Update the "Implemented/Upcoming" features list based on your progress
-4. Add proper Firebase configuration instructions if needed
+[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/home-cleaner-app/blob/main/LICENSE)
+[![Flutter Version](https://img.shields.io/badge/flutter-3.22.2-blue)](https://flutter.dev)
+[![Firebase](https://img.shields.io/badge/firebase-🔌%20connected-green)](https://firebase.google.com)
+[![Project Status](https://img.shields.io/badge/status-🚧%20in%20progress-orange)](https://github.com/yourusername/home-cleaner-app)
 
-This README:
-- Shows professionalism despite incomplete status
-- Highlights completed features prominently
-- Uses badges for quick project status understanding
-- Maintains visual consistency with your app's theme
-- Provides clear installation instructions
-- Encourages contributions (good for internship evaluation)
+A Flutter-based solution for booking verified home cleaning professionals, developed as part of an internship technical assessment.
 
-Would you like me to help you generate any other project documentation?
+![App Preview](https://via.placeholder.com/800x400.png/2575FC/FFFFFF?text=HomeCleaner+App+Demo)  
+*Replace with actual screenshots*
+
+## ✨ Key Features  
+**Implemented**  
+✅ Authentication (Email/Password)  
+✅ Home Screen with Service Listings  
+✅ Cleaner Profile Cards with Ratings  
+✅ Admin Panel (Basic Document Verification)  
+✅ Booking Request System (2 km Radius Filter)  
+✅ Modern UI with Responsive Design  
+
+**Upcoming**  
+🔄 Social Logins (Google/Facebook)  
+🔄 Real-time Notifications  
+🔄 Advanced Booking History  
+🔄 Cleaner Availability Calendar  
+
+## 🛠️ Installation  
+1. **Clone Repository**  
+   ```bash
+   git clone https://github.com/yourusername/home-cleaner-app.git
