@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "319149871257",
+    "project_id": "cleaner-service-app",
+    "storage_bucket": "cleaner-service-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319149871257:android:642f2de0024227ff726808",
+        "android_client_info": {
+          "package_name": "com.example.internship_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPCq7bWYs9WzvzAE5GuJmLAQ4pZV1K0ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
