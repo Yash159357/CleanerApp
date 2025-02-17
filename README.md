@@ -1,7 +1,6 @@
 # HomeCleaner App 🧹  
 **Book Trusted Home Cleaners Within 2 km Radius**  
 
-[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/home-cleaner-app/blob/main/LICENSE)
 [![Flutter Version](https://img.shields.io/badge/flutter-3.22.2-blue)](https://flutter.dev)
 [![Firebase](https://img.shields.io/badge/firebase-🔌%20connected-green)](https://firebase.google.com)
 [![Project Status](https://img.shields.io/badge/status-🚧%20in%20progress-orange)](https://github.com/yourusername/home-cleaner-app)
